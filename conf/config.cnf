@@ -1,0 +1,4 @@
+[log]
+logFile: ./logs/logger.log.
+[security]
+key: XXXXXXX
